@@ -1,3 +1,1 @@
-## Hi there 👋
-
-Seddar Aydın
+Merhaba ben Seddar Aydın.
